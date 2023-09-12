@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
+                {
+                    "source": "/home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "823"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1453"
+                    }
+                },
                 {
                     "source": "/home/samirzm/.gradle/caches/transforms-3/d15f66fef1a31da661d387cb1bcc50cd/transformed/material-1.4.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
@@ -15,9 +34,9 @@
                     "to": {
                         "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,39,40,41,42,43,44,45",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1473,1561,1685,1787,1889,2005,2107,2221,2349,2465,2587,2723,2843,2977,3097,3209,3424,3548,3678,3800,3938,4072,4188",
+                        "startOffsets": "1458,1546,1670,1772,1874,1990,2092,2206,2334,2450,2572,2708,2828,2962,3082,3194,3409,3533,3663,3785,3923,4057,4173",
                         "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
-                        "endOffsets": "1556,1680,1782,1884,2000,2102,2216,2344,2460,2582,2718,2838,2972,3092,3204,3330,3543,3673,3795,3933,4067,4183,4303"
+                        "endOffsets": "1541,1665,1767,1869,1985,2087,2201,2329,2445,2567,2703,2823,2957,3077,3189,3315,3528,3658,3780,3918,4052,4168,4288"
                     }
                 },
                 {
@@ -32,28 +51,9 @@
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,38",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,170,254,338,434,536,638,3335",
+                        "startOffsets": "100,170,254,338,434,536,638,3320",
                         "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "165,249,333,429,531,633,727,3419"
-                    }
-                },
-                {
-                    "source": "/home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/res/values-night/themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "838"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "732",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1468"
+                        "endOffsets": "165,249,333,429,531,633,727,3404"
                     }
                 }
             ]

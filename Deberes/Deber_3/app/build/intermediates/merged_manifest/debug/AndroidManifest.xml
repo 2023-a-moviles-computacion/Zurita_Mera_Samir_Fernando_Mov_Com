@@ -20,7 +20,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.FoodOrderAndDeliveryAppKotlin" >
+        android:theme="@style/Theme.DIDI_delivery" >
         <activity
             android:name="com.demo.foodorderanddeliveryappkotlin.SuccessOrderActivity"
             android:exported="true" />

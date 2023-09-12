@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:1-37:12
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:1-37:12
 MERGED from [androidx.core:core-ktx:1.6.0] /home/samirzm/.gradle/caches/transforms-3/d80474b3c928b28b0bd3b2a8705b056e/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] /home/samirzm/.gradle/caches/transforms-3/d15f66fef1a31da661d387cb1bcc50cd/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/samirzm/.gradle/caches/transforms-3/9ca35d3a7695ebbdc22e013901dcd915/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
@@ -43,29 +43,29 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/samirzm/.gradle/cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/samirzm/.gradle/caches/transforms-3/23e3714a8c2c4e420694fbc49a078a87/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/samirzm/.gradle/caches/transforms-3/c852f54bba2f3e197a6dfb00b72f1e77/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/samirzm/.gradle/caches/transforms-3/5b956ecac3ecaeff8a87562a7c22fa22/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:3:5-53
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:1-37:12
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:1-37:12
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:7:5-35:19
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:7:5-35:19
 MERGED from [com.google.android.material:material:1.4.0] /home/samirzm/.gradle/caches/transforms-3/d15f66fef1a31da661d387cb1bcc50cd/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /home/samirzm/.gradle/caches/transforms-3/d15f66fef1a31da661d387cb1bcc50cd/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/samirzm/.gradle/caches/transforms-3/9ca35d3a7695ebbdc22e013901dcd915/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
@@ -81,61 +81,61 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/samir
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /home/samirzm/.gradle/caches/transforms-3/05d5c5cc4568c7cdc9ed1fad17bccce0/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:13:9-67
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:13:9-51
 activity#com.demo.foodorderanddeliveryappkotlin.SuccessOrderActivity
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:14:9-16:39
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:14:9-16:39
 	android:exported
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:16:13-36
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:15:13-49
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:15:13-49
 activity#com.demo.foodorderanddeliveryappkotlin.PlaceYourOrderActivity
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:17:9-19:39
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:17:9-19:39
 	android:exported
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:19:13-36
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:19:13-36
 	android:name
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:18:13-51
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:18:13-51
 activity#com.demo.foodorderanddeliveryappkotlin.RestaurantMenuActivity
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:20:9-22:39
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:20:9-22:39
 	android:exported
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:22:13-36
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:22:13-36
 	android:name
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:21:13-51
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:21:13-51
 activity#com.demo.foodorderanddeliveryappkotlin.SplashActivity
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:23:9-31:20
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:23:9-31:20
 	android:exported
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:25:13-36
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:24:13-43
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:24:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:26:13-30:29
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:27:17-69
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:29:17-77
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:29:27-74
 activity#com.demo.foodorderanddeliveryappkotlin.MainActivity
-ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:32:9-34:39
+ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:32:9-34:39
 	android:exported
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:34:13-36
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:34:13-36
 	android:name
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml:33:13-41
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml:33:13-41
 uses-sdk
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
 MERGED from [androidx.core:core-ktx:1.6.0] /home/samirzm/.gradle/caches/transforms-3/d80474b3c928b28b0bd3b2a8705b056e/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.6.0] /home/samirzm/.gradle/caches/transforms-3/d80474b3c928b28b0bd3b2a8705b056e/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.4.0] /home/samirzm/.gradle/caches/transforms-3/d15f66fef1a31da661d387cb1bcc50cd/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
@@ -214,13 +214,13 @@ MERGED from [androidx.print:print:1.0.0] /home/samirzm/.gradle/caches/transforms
 MERGED from [androidx.print:print:1.0.0] /home/samirzm/.gradle/caches/transforms-3/c852f54bba2f3e197a6dfb00b72f1e77/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/samirzm/.gradle/caches/transforms-3/5b956ecac3ecaeff8a87562a7c22fa22/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/samirzm/.gradle/caches/transforms-3/5b956ecac3ecaeff8a87562a7c22fa22/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
-INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
+INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
-		ADDED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
-		INJECTED from /home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
+		ADDED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/src/main/AndroidManifest.xml

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/home/samirzm/.gradle/caches/transforms-3/05d5c5cc4568c7cdc9ed1fad17bccce0/transformed/core-1.6.0/res/values-en-rGB/values-en-rGB.xml",

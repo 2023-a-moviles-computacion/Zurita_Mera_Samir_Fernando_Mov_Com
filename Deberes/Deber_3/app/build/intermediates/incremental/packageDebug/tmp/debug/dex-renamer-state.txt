@@ -1,9 +1,9 @@
-#Sat Sep 09 20:57:03 ECT 2023
-base.0=/home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.3=/home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.4=/home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+#Mon Sep 11 23:50:38 ECT 2023
+base.0=/home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.4=/home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=1/classes.dex

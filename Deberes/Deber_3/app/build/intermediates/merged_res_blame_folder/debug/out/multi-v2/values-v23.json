@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/samirzm/AndroidStudioProjects/Samir_Zurita_Deber3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/samirzm/AndroidStudioProjects/Zurita_Mera_Samir_Fernando_Mov_Com/Deberes/Deber_3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/samirzm/.gradle/caches/transforms-3/51a57974e54d00d9129249c7c76385bc/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",

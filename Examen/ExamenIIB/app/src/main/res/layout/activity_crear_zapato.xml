@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CrearZapato">
+
+    <TextView
+        android:id="@+id/tv_AnadirCancion"
+        android:layout_width="332dp"
+        android:layout_height="82dp"
+        android:text="Añadir Nuevo zapato"
+        android:textColor="#000000"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.367"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038" />
+
+    <TextView
+        android:id="@+id/tv_nombre_cancion_crear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Nombre del zapato"
+        app:layout_constraintEnd_toEndOf="@+id/tv_AnadirCancion"
+        app:layout_constraintHorizontal_bias="0.056"
+        app:layout_constraintStart_toStartOf="@+id/tv_AnadirCancion"
+        app:layout_constraintTop_toBottomOf="@+id/tv_AnadirCancion" />
+
+    <TextView
+        android:id="@+id/tv_artista_cancion_crear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Descripción"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.105"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.32" />
+
+    <TextView
+        android:id="@+id/tv_duracion_cancion_crear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tamaño"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.112"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.467" />
+
+    <TextView
+        android:id="@+id/tv_genero_cancion_crear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Categoria"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.098"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.605" />
+
+    <TextView
+        android:id="@+id/tv_anioRelease_cancion_crear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Año de Lanzamiento"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.142"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.738" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_nombreC_crear"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="12dp"
+        android:hint="Ejemplo: Buzenits"
+        app:layout_constraintBottom_toTopOf="@+id/tv_artista_cancion_crear"
+        app:layout_constraintEnd_toEndOf="@+id/tv_nombre_cancion_crear"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_nombre_cancion_crear"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nombre_cancion_crear"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_artistaC_crear"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="16dp"
+        android:hint="Ejemplo: Deportivos"
+        app:layout_constraintBottom_toTopOf="@+id/tv_duracion_cancion_crear"
+        app:layout_constraintEnd_toEndOf="@+id/tv_artista_cancion_crear"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_artista_cancion_crear"
+        app:layout_constraintTop_toBottomOf="@+id/tv_artista_cancion_crear"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_duracionC_crear"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="20dp"
+        android:hint="Ejemplo: 38"
+        app:layout_constraintBottom_toTopOf="@+id/tv_genero_cancion_crear"
+        app:layout_constraintEnd_toEndOf="@+id/tv_duracion_cancion_crear"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_duracion_cancion_crear"
+        app:layout_constraintTop_toBottomOf="@+id/tv_duracion_cancion_crear"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_generoC_crear"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="12dp"
+        android:hint="Ejemplo: Deportivos"
+        app:layout_constraintBottom_toTopOf="@+id/tv_anioRelease_cancion_crear"
+        app:layout_constraintEnd_toEndOf="@+id/tv_genero_cancion_crear"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_genero_cancion_crear"
+        app:layout_constraintTop_toBottomOf="@+id/tv_genero_cancion_crear"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_anioC_crear"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="4dp"
+        android:hint="Ejemplo: 2018"
+        app:layout_constraintEnd_toEndOf="@+id/tv_anioRelease_cancion_crear"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_anioRelease_cancion_crear"
+        app:layout_constraintTop_toBottomOf="@+id/tv_anioRelease_cancion_crear" />
+
+    <Button
+        android:id="@+id/btn_crear_zapato"
+        android:layout_width="114dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#023E8A"
+        android:text="Añadir"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtIn_anioC_crear"
+        app:layout_constraintVertical_bias="0.041" />
+
+    <Button
+        android:id="@+id/btn_cancelar_zapato_crear"
+        android:layout_width="114dp"
+        android:layout_height="42dp"
+        android:backgroundTint="#0077B6"
+        android:text="Cancelar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_crear_zapato"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

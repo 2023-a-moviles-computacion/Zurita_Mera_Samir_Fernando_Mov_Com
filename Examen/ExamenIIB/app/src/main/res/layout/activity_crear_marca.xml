@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CrearMarca">
+
+    <TextView
+        android:id="@+id/tv_playlist_crear"
+        android:layout_width="324dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="50dp"
+        android:text="Crear Nueva Marca"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.436"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_nombreP_editar2"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:hint="Ejemplo: Adidas"
+        app:layout_constraintBottom_toTopOf="@+id/tv_Descripcion"
+        app:layout_constraintEnd_toEndOf="@+id/tv_NombrePlaylist"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_NombrePlaylist"
+        app:layout_constraintTop_toBottomOf="@+id/tv_NombrePlaylist"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_descripcionP_editar"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="4dp"
+        android:hint="Ejemplo: Deportivos"
+        app:layout_constraintBottom_toTopOf="@+id/tv_AnioCreacionP"
+        app:layout_constraintEnd_toEndOf="@+id/tv_Descripcion"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_Descripcion"
+        app:layout_constraintTop_toBottomOf="@+id/tv_Descripcion" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_anioP_editar"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="12dp"
+        android:hint="Ejemplo: 2020"
+        app:layout_constraintBottom_toTopOf="@+id/tv_AutorP"
+        app:layout_constraintEnd_toEndOf="@+id/tv_AnioCreacionP"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_AnioCreacionP"
+        app:layout_constraintTop_toBottomOf="@+id/tv_AnioCreacionP"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_autorP_editar"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="12dp"
+        android:hint="Ejemplo: unisex"
+        app:layout_constraintBottom_toTopOf="@+id/tv_NumCanciones"
+        app:layout_constraintEnd_toEndOf="@+id/tv_AutorP"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_AutorP"
+        app:layout_constraintTop_toBottomOf="@+id/tv_AutorP"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/txtIn_numCP_editar"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="16dp"
+        android:hint="Ejemplo: 10"
+        app:layout_constraintEnd_toEndOf="@+id/tv_NumCanciones"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_NumCanciones"
+        app:layout_constraintTop_toBottomOf="@+id/tv_NumCanciones" />
+
+    <TextView
+        android:id="@+id/tv_NombrePlaylist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Nombre de la Marca"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@+id/tv_playlist_crear"
+        app:layout_constraintHorizontal_bias="0.005"
+        app:layout_constraintStart_toStartOf="@+id/tv_playlist_crear"
+        app:layout_constraintTop_toBottomOf="@+id/tv_playlist_crear" />
+
+    <TextView
+        android:id="@+id/tv_Descripcion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Descripción"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.116"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.255" />
+
+    <TextView
+        android:id="@+id/tv_AnioCreacionP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Año"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.099"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.379" />
+
+    <TextView
+        android:id="@+id/tv_AutorP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Genero"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.102"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.517" />
+
+    <TextView
+        android:id="@+id/tv_NumCanciones"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cantidad de zapatos"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.149"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.665" />
+
+    <Button
+        android:id="@+id/btn_guardar_cambios"
+        android:layout_width="114dp"
+        android:layout_height="41dp"
+        android:layout_marginBottom="108dp"
+        android:backgroundTint="#043e8a"
+        android:text="Crear"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btn_cancelar_editar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        android:backgroundTint="#0077B6"
+        android:text="Cancelar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
